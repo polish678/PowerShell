@@ -1,4 +1,4 @@
-#JG - April 2020. Got this from a FB post
+#JG - April 2020. Got this from a FB post on PowerShell
 # n SharePoint I need to run a script that returns :
 # 1) All files / images / videos.
 # 2) Who has permission to read or write
